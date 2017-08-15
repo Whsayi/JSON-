@@ -1,0 +1,38 @@
+{
+"武侠": [
+{
+"MovieName": "战狼",
+"MovieAuthor": "吴京",
+"MovieContent": "犯我中华者虽远必诛"
+},
+{
+"MovieName": "战狼2",
+"MovieAuthor": "吴京",
+"MovieContent": "你的背后有一个强大的祖国"
+}
+],
+"科幻": [
+{
+"MovieName": "大明猩",
+"MovieAuthor": "歪果仁",
+"MovieContent": "猩猩当明星"
+}
+],
+"爱情": [
+{
+"MovieName": "漂洋过海来看你",
+"MovieAuthor": "朱亚文",
+"MovieContent": "浪漫的爱情故事"
+},
+{
+"MovieName": "爱情睡醒了",
+"MovieAuthor": "唐嫣",
+"MovieContent": "呃呃呃"
+},
+{
+"MovieName": "英雄联盟",
+"MovieAuthor": "流浪",
+"MovieContent": "我们走我们走"
+}
+]
+}
